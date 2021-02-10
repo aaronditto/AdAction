@@ -27,20 +27,20 @@ e.g. if I run the program over a range from 1-20 I should get the following outp
 
 Produce a report at the end of the program showing how many times the following were output:
 
-  a. Fizz
-  b. Buzz
-  c. Fizzbuzz
-  d. Lucky
-  e. an integer
+  1. Fizz
+  2. Buzz
+  3. Fizzbuzz
+  4. Lucky
+  5. an integer
 
 e.g. if I run the program over a range from 1-20 I should get the following output:
 
     1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz
 
-  Fizz: 4
-  Buzz: 3
-  Fizzbuzz: 1
-  Lucky: 2
-  Integer: 10
+  1. Fizz: 4
+  2. Buzz: 3
+  3. Fizzbuzz: 1
+  4. Lucky: 2
+  5. Integer: 10
 
  (Integer is 10 because there were 10 numbers that were not altered in any way).
